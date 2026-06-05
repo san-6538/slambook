@@ -37,3 +37,5 @@ keepsake file (photos embedded, nothing uploaded to a server).
 ## Privacy & cost
 Photos are never stored on the server or in the database — they live only on the device and inside
 the downloadable keepsake file. The app is designed to run entirely on free tiers (Vercel + MongoDB Atlas M0).
+
+##live at https://slambook-beige.vercel.app/
